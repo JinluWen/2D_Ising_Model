@@ -18,6 +18,3 @@ end
 save Data.txt -ascii Data
 
 toc
-
-%mail
-mailme('Matlab程序运行完毕,请查收结果','程序已运行完毕，请查收结果','Data.txt');
